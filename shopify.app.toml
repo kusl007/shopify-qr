@@ -1,7 +1,7 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
 client_id = "252213e3efdacfef45133d30767b038b"
-application_url = "https://elsewhere-organ-sympathy-commodity.trycloudflare.com"
+application_url = "https://debut-lessons-preferred-permissions.trycloudflare.com"
 embedded = true
 name = "qr"
 handle = "qr-58"
@@ -19,9 +19,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://elsewhere-organ-sympathy-commodity.trycloudflare.com/auth/callback",
-  "https://elsewhere-organ-sympathy-commodity.trycloudflare.com/auth/shopify/callback",
-  "https://elsewhere-organ-sympathy-commodity.trycloudflare.com/api/auth/callback"
+  "https://debut-lessons-preferred-permissions.trycloudflare.com/auth/callback",
+  "https://debut-lessons-preferred-permissions.trycloudflare.com/auth/shopify/callback",
+  "https://debut-lessons-preferred-permissions.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
